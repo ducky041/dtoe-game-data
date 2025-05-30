@@ -6,21 +6,21 @@
     "Ring 1": {
       "Example Tower 1": {
         "Difficulty": "Easy",
-        "NumDifficulty": 0.0
+        "NumDifficulty": .0
       },
       "Example Tower 2": {
         "Difficulty": "Easy",
-        "NumDifficulty": 0.99
+        "NumDifficulty": .99
       }
     },
     "Ring 2": {
       "Example Tower 3": {
         "Difficulty": "Hard",
-        "NumDifficulty": 0.56
+        "NumDifficulty": .56
       },
       "Example Tower 4": {
         "Difficulty": "Extreme",
-        "NumDifficulty": 0.47
+        "NumDifficulty": .47
       }
     }
 }

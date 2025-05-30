@@ -1,4 +1,26 @@
 {
   "tower-wins-webhook": "https://webhook.lewisakura.moe/api/webhooks/1377896235972694016/-sJhCKGZsUx5caRf_6XcB28PeiBO54HeiqAM-ocvP5GqVzEsL4Ntgs4xEyuRawhb8Hfs",
   "sc-tower-wins-webhook": "https://webhook.lewisakura.moe/api/webhooks/1377896395637522433/PkRSMMC6x4_64phg6rWc0kGjfQqsLSqoYO5cGrKsuAaH4DYwNMwrAflNBqX_E6qj0FP0"
+
+  "checklist": {
+    "Ring 1": {
+      "Example Tower 1": {
+        "Difficulty": "Easy",
+        "NumDifficulty": 0.0
+      },
+      "Example Tower 2": {
+        "Difficulty": "Easy",
+        "NumDifficulty": 0.99
+      }
+    },
+    "Ring 2": {
+      "Example Tower 3": {
+        "Difficulty": "Hard",
+        "NumDifficulty": 0.56
+      },
+      "Example Tower 4": {
+        "Difficulty": "Extreme",
+        "NumDifficulty": 0.47
+      }
+    }
 }
